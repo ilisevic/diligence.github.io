@@ -8401,14 +8401,14 @@ h1, h2, h3, h4, h5,
     content: '';
     opacity: .9;
     background: #272727;
-    background: -moz-linear-gradient(left, #272727 0%, #b48484 100%);
-    background: -webkit-gradient(left top, right top, color-stop(0%, #272727), color-stop(100%, #b48484));
-    background: -webkit-linear-gradient(left, #272727 0%, #b48484 100%);
-    background: -o-linear-gradient(left, #272727 0%, #b48484 100%);
-    background: -ms-linear-gradient(left, #272727 0%, #b48484 100%);
-    background: -webkit-gradient(linear, left top, right top, from(#272727), to(#b48484));
-    background: linear-gradient(to right, #272727 0%, #b48484 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#272727', endColorstr='#b48484', GradientType=1 ); }
+    background: -moz-linear-gradient(left, #272727 0%, #272733 100%);
+    background: -webkit-gradient(left top, right top, color-stop(0%, #272727), color-stop(100%, #272728));
+    background: -webkit-linear-gradient(left, #272727 0%, #272728 100%);
+    background: -o-linear-gradient(left, #272727 0%, #272728 100%);
+    background: -ms-linear-gradient(left, #272727 0%, #272728 100%);
+    background: -webkit-gradient(linear, left top, right top, from(#272727), to(#272728));
+    background: linear-gradient(to right, #272727 0%, #272728 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#272727', endColorstr='#272728', GradientType=1 ); }
   .hero-wrap.hero-wrap-2 {
     height: 300px; }
     .hero-wrap.hero-wrap-2 .slider-text {
@@ -9415,14 +9415,14 @@ textarea.form-control {
     opacity: .8;
     background: #233e62;
     background: #272727;
-    background: -moz-linear-gradient(left, #272727 0%, #b48484 100%);
-    background: -webkit-gradient(left top, right top, color-stop(0%, #272727), color-stop(100%, #b48484));
-    background: -webkit-linear-gradient(left, #272727 0%, #b48484 100%);
-    background: -o-linear-gradient(left, #272727 0%, #b48484 100%);
-    background: -ms-linear-gradient(left, #272727 0%, #b48484 100%);
-    background: -webkit-gradient(linear, left top, right top, from(#272727), to(#b48484));
-    background: linear-gradient(to right, #272727 0%, #b48484 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#272727', endColorstr='#b48484', GradientType=1 ); }
+    background: -moz-linear-gradient(left, #272727 0%, #272728 100%);
+    background: -webkit-gradient(left top, right top, color-stop(0%, #272727), color-stop(100%, #272728));
+    background: -webkit-linear-gradient(left, #272727 0%, #272728 100%);
+    background: -o-linear-gradient(left, #272727 0%, #272728 100%);
+    background: -ms-linear-gradient(left, #272727 0%, #272728 100%);
+    background: -webkit-gradient(linear, left top, right top, from(#272727), to(#272728));
+    background: linear-gradient(to right, #272727 0%, #272728 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#272727', endColorstr='#272728', GradientType=1 ); }
   .ftco-intro .btn {
     width: 100%; }
   .ftco-intro h2 {
@@ -9504,14 +9504,14 @@ textarea.form-control {
     content: '';
     opacity: .8;
     background: #272727;
-    background: -moz-linear-gradient(left, #272727 0%, #b48484 100%);
-    background: -webkit-gradient(left top, right top, color-stop(0%, #272727), color-stop(100%, #b48484));
-    background: -webkit-linear-gradient(left, #272727 0%, #b48484 100%);
-    background: -o-linear-gradient(left, #272727 0%, #b48484 100%);
-    background: -ms-linear-gradient(left, #272727 0%, #b48484 100%);
-    background: -webkit-gradient(linear, left top, right top, from(#272727), to(#b48484));
-    background: linear-gradient(to right, #272727 0%, #b48484 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#272727', endColorstr='#b48484', GradientType=1 ); }
+    background: -moz-linear-gradient(left, #272727 0%, #272733 100%);
+    background: -webkit-gradient(left top, right top, color-stop(0%, #272727), color-stop(100%, #272733));
+    background: -webkit-linear-gradient(left, #272727 0%, #272733 100%);
+    background: -o-linear-gradient(left, #272727 0%, #272733 100%);
+    background: -ms-linear-gradient(left, #272727 0%, #272733 100%);
+    background: -webkit-gradient(linear, left top, right top, from(#272727), to(#272733));
+    background: linear-gradient(to right, #272727 0%, #272733 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#272727', endColorstr='#272733', GradientType=1 ); }
 
 .appointment-form .form-group {
   position: relative;
